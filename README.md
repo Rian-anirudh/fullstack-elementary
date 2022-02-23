@@ -13,8 +13,10 @@ This Repository consists of the various tutorial snippets and web dev code that 
 However this repo **will not be public** as it consists mostly of unfinished works and parts of the projects that are written with the intention of learning the concepts.
 
 The project aims to access and use the three primary tools of web development: **HTML**   **CSS**   **Javascript**
+
 ![HTML CSS Javascript](https://github.com/Rian-anirudh/online_tutorial/blob/main/resources/HTML_CSS_JVS.jpeg)\
-Source: Bryt Designs<br/>
+Source: Bryt Designs
+
 Initially the projects may be kept distinct and later on they maight be used together as per the project requirements, *further the projects may not be organized or stuctured appropriately as they are approached from an educational and experimental stand point*.
 
  <br />
