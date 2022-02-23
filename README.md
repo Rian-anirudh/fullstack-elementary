@@ -8,7 +8,7 @@ My first GitHub repo!!
 
 ### Summary
 Yeah so this is my first git repo and also my intro into the world of fullstack development
-This Repository consists of the various tutorial snippets and web dev code that were covered in **"The Odin Project"** and **Free_code_camp** aand some of my own practise projects
+This Repository consists of the various tutorial snippets and web dev code that were covered in **"The Odin Project"** and **"Free_code_camp"** and some of my own practise projects
 
 However this repo **will not be public** as it consists mostly of unfinished works and parts of the projects that are written with the intention of learning the concepts.
 
