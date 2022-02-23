@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- HTML head element-->
+    <head>
+        <title></title>
+        <metacharset="UTF-8">
+    </head>
+    <!-- HTML body element-->
+    <body>
+        <h1></h1>
+        <h2></h2>
+        <p></p>
+    </body>
+</html>
+
+
+<!-- Another template -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+  </body>
+</html>
